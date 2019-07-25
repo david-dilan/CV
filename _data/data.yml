@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: David Letourneau Dilanchian
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: david.ldilanchian@gmail.com
+    phone: +1 514 515-2845
+    website: david-dilan.github.io/online-cv/ #do not add http://
+    linkedin: david-dilanchian
+    github: david-dilan
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,19 +29,19 @@ sidebar:
         level: Native
 
       - idiom: French
-        level: Professional
+        level: Native
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Armenian
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Camping
         link:
 
       - item: Snowboarding
         link:
 
-      - item: Cooking
+      - item: Open-Source Dev
         link:
 
 career-profile:
