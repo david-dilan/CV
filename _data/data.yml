@@ -4,11 +4,11 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: David Letourneau Dilanchian
-    tagline: Full Stack Developer
+    tagline: Developer Software & Fintech
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -38,7 +38,7 @@ sidebar:
       - item: Camping
         link:
 
-      - item: Snowboarding
+      - item: Kayaking
         link:
 
       - item: Open-Source Dev
@@ -162,15 +162,11 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: In Progress...
+        authors: David L. DIlanchian
+        conference: MTL, 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
+      ted compiler for Algol 60
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
@@ -178,23 +174,23 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & 
         level: 98%
 
       - name: Javascript & jQuery
         level: 98%
 
-      - name: Angular
+      - name: Typescript & nodeJS
         level: 98%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Tensorflow & DL/ML
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: PHP & R
+        level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://davidldilanchian.info" target="_blank" rel="nofollow">David Dilanchian</a>
