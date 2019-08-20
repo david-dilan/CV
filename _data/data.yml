@@ -10,13 +10,7 @@ sidebar:
     name: David Letourneau Dilanchian
     tagline: Developer Software & Fintech
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    #download: Download My CV 
-    #<a target="_blank" rel="noopener" class="noCrossRef" href="/assets/david_dilanchian_cv.pdf"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
     
-    #[david_dilanchian_cv.pdf]({{https://github.com/david-dilan/cv/blob/gh-pages}}/assets/david_dilanchian_cv.pdf)
-
-
-
     # Sidebar links
     email: david.dilanchian@me.pm
     phone: +1 514 515-2845
@@ -24,7 +18,7 @@ sidebar:
     linkedin: david-dilanchian
     github: david-dilan
     #gitlab:
-    #download: My CV 
+    download: 
     <a target="_blank" rel="noopener" class="noCrossRef" href="/cv/assets/david_dilanchian_cv.pdf"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>CV PDF Download</button></a>
     #[david_dilanchian_cv.pdf]({{https://github.com/david-dilan/cv/blob/gh-pages}}/assets/david_dilanchian_cv.pdf)
     #twitter: 
