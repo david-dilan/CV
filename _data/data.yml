@@ -23,7 +23,8 @@ sidebar:
     linkedin: david-dilanchian
     github: david-dilan
     #gitlab:
-    download: [david_dilanchian_cv.pdf]({{https://github.com/david-dilan/cv/blob/gh-pages}}/assets/david_dilanchian_cv.pdf)
+    download: <a target="_blank" rel="noopener" class="noCrossRef" href="/assets/david_dilanchian_cv.pdf"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
+    #[david_dilanchian_cv.pdf]({{https://github.com/david-dilan/cv/blob/gh-pages}}/assets/david_dilanchian_cv.pdf)
     #twitter: 
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
@@ -31,13 +32,13 @@ sidebar:
 
     languages:
       - idiom: English
-        level: Native
+        level: Proficient C2
 
       - idiom: French
-        level: Native
+        level: Proficient C2
 
       - idiom: Armenian
-        level: Native
+        level: Intermediate B1
 
     interests:
       - item: Camping
