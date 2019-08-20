@@ -4,22 +4,22 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: David Letourneau Dilanchian
+    tagline: Developer Software & Fintech
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: david.dilanchian@me.pm
+    phone: +1 514 515-2845
+    website: david-dilan.github.io/online-cv/ #do not add http://
+    linkedin: david-dilanchian
+    github: david-dilan
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,58 +29,51 @@ sidebar:
         level: Native
 
       - idiom: French
-        level: Professional
+        level: Native
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Armenian
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Camping
         link:
 
-      - item: Snowboarding
+      - item: Kayaking
         link:
 
-      - item: Cooking
+      - item: Open-Source Dev
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      My career bio 
+      Experienced Contractor with a demonstrated history of working in the computer and network security industry. Skilled in 
+      Negotiation, Analytical Skills, Microsoft Office, Fintech, OS Development, Product Knowledge, and Management. Strong professional 
+      & entrepreneurship studied at Université de Montréal.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: DEC Social Science
+      cegep: Vanier College
+      time: 2009 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        This is a two-year pre-university program, which prepares students for further studies at university. Students in Social Science 
+        study aspects of human life in the past, present and future as a means to understand the complexities of life. Current issues 
+        and problems can be examined from the perspective of many different disciplines.
+          - Macro & Micro Economics
+          - Phsychology & Sociology
+          
+     - degree: DES Science
+      highschool: Saint-Maxime
+      time: 2006 - 2009
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Students receive a general education including compulsory and optional subjects that vary from secondary school to another. This 
+        training gives access to vocational and college training.
 
-          - Bullet point
-          - Bullet point
+          - Math Enriched
+          - Science Enriched
+
+    
 
 experiences:
     - role: Lead Developer
@@ -127,7 +120,7 @@ experiences:
           - Bullet point
 
 projects:
-    title: Projects
+    title: SCAMA
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -162,39 +155,35 @@ publications:
       bibendum fringilla a eu lectus.
 
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: In Progress...
+        authors: David L. DIlanchian
+        conference: MTL, 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
+      ted compiler for Algol 60
         authors: Edgar T. Irons
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills & Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & C++
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Javascript & nodeJS
         level: 98%
 
-      - name: Angular
+      - name: Typescript & dotNet
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Microsoft Office & AZURE
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Tensorflow & DL/ML
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: PHP & R
+        level: 70%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="https://davidldilanchian.info" target="_blank" rel="nofollow">David Dilanchian</a>
