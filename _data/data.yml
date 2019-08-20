@@ -3,13 +3,16 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: David Letourneau Dilanchian
     tagline: Developer Software & Fintech
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    download: Download My CV [david_dilanchian_cv.pdf]({{https://github.com/david-dilan/cv/blob/gh-pages}}/assets/david_dilanchian_cv.pdf)
+
+
 
     # Sidebar links
     email: david.dilanchian@me.pm
@@ -18,7 +21,7 @@ sidebar:
     linkedin: david-dilanchian
     github: david-dilan
     #gitlab:
-    download: Download [My CV in PDF]({{https://github.com/david-dilan/cv/blob/gh-pages}}/assets/david_dilanchian_cv.pdf)
+    #download: Download [My CV in PDF]({{https://github.com/david-dilan/cv/blob/gh-pages}}/assets/david_dilanchian_cv.pdf)
     #twitter: 
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     #codewars:
