@@ -17,12 +17,12 @@ sidebar:
     website: david-dilan.github.io/online-cv/ #do not add http://
     linkedin: david-dilanchian
     github: david-dilan
-    gitlab:
-    bitbucket:
-    twitter: 
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #gitlab:
+    download: My CV PDF
+    #twitter: 
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
