@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: David Letourneau Dilanchian
@@ -53,7 +53,7 @@ career-profile:
       & entrepreneurship studied at Université de Montréal.
 
 education:
-    - degree: DEC Social Science
+    degree: DEC Social Science
       cegep: Vanier College
       time: 2009 - 2012
       details: |
@@ -63,7 +63,7 @@ education:
           - Macro & Micro Economics
           - Phsychology & Sociology
           
-     - degree: DES Science
+    degree: DES Science
       highschool: Saint-Maxime
       time: 2006 - 2009
       details: |
