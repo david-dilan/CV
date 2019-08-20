@@ -23,7 +23,7 @@ sidebar:
     linkedin: david-dilanchian
     github: david-dilan
     #gitlab:
-    download: <a target="_blank" rel="noopener" class="noCrossRef" href="/assets/david_dilanchian_cv.pdf"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
+    download: My CV <a target="_blank" rel="noopener" class="noCrossRef" href="/assets/david_dilanchian_cv.pdf"><button type="button" class="btn btn-default" aria-label="Left Align"><span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span> PDF Download</button></a>
     #[david_dilanchian_cv.pdf]({{https://github.com/david-dilan/cv/blob/gh-pages}}/assets/david_dilanchian_cv.pdf)
     #twitter: 
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
