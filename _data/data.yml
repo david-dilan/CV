@@ -53,7 +53,7 @@ career-profile:
       & entrepreneurship studied at Université de Montréal.
 
 education:
-    degree: DEC Social Science
+    - degree: DEC Social Science
       cegep: Vanier College
       time: 2009 - 2012
       details: |
@@ -63,7 +63,7 @@ education:
           - Macro & Micro Economics
           - Phsychology & Sociology
           
-    degree: DES Science
+    - degree: DES Science
       highschool: Saint-Maxime
       time: 2006 - 2009
       details: |
