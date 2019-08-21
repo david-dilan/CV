@@ -3,17 +3,15 @@
 # Site Settings
 title: My Curriculum Vitae
 email: david.dilanchian@pm.pm
-url: 'https://david-dilan.github.io/cv/'
-baseurl: '/cv/' #change it according to your repository name
+url: 'https://davidldilanchian.info'
+baseurl: '/' #change it according to your repository name
 description: Tell me and I forget. Teach me and I remember. Involve me and I learn.
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic # blue turquoise green berry orange ceramic
 chrome_mobile_color: 5e5e5e #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
-analytics: UA-144097749-1
 analytics: 'UA-145453835-1'
-google_analytics: "UA-144097749-1"
 google_analytics: "UA-145453835-1"
 
 
