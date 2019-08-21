@@ -142,14 +142,14 @@ projects:
         #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: Formation
     intro: |
-      Keeping it hush-hush! (TSflow/ML)
+       Certification in Emergency First Aid, CPR Level C, and AED
 
     papers:
-      - title: In Progress...
-        authors: David L. Dilanchian
-        conference: MTL, 2019
+      - title: First Aid & CPR/AED
+        authors: Canadian Red Cross
+        conference: 2009 - 2022
 
 skills:
     title: Skills & Proficiency
