@@ -7,14 +7,14 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: David Letourneau Dilanchian
+    name: David Létourneau Dilanchian
     tagline: Developer Software & Fintech
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
     email: david.dilanchian@me.pm
     phone: +1 514 515-2845
-    website: david-dilan.github.io/online-cv/ #do not add http://
+    website: davidldilanchian.info/ #do not add http://
     linkedin: david-dilanchian
     github: david-dilan
     #gitlab:
@@ -41,7 +41,7 @@ sidebar:
       - item: Kayaking
         link:
 
-      - item: Open-Source Dev
+      - item: Open-Source Development
         link:
 
 career-profile:
@@ -76,9 +76,9 @@ education:
     
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: CO-Founder
+      time: 2017 - Present
+      company: HayFintch, Laval
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -90,73 +90,66 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point
+          - Research, design, develop, and test blockchain technologies
+          - Maintain and extend current client- and server-side applications responsible for integration and business logic
+          - Be involved in the global blockchain community—work on implementing and integrating the latest improvement proposals
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Web Analyst
+      time: 2015 - Present
+      company: Show Viral, Montreal
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        
 
-          - Bullet point
-          - Bullet point
+          - Produce reports for the Management team
+          - Plan, develop and manage web and mobile campaign and channel tracking
+          - Collaborate with sales and marketing teams
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Manager & Owner
+      time: 2013 - 2015
+      company: Cafe Babylonia, Laval
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
+        
+        
+          - Manage day-to-day operations of the coffee shop
+          - Hire & Train employees
+          - Nurture friendly relationships with customers to increase loyalty
+          - Coordinate with vendors and order supplies & maintain records
 
 projects:
     title: SCAMA
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Teaching Senior Citizens how to start and use Computers/Social Media/Internet
+      https://david-dilan.github.io/scama/
 
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    #assignments:
+     # - title: Velocity
+      #  link: "#hook"
+       # tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      #- title: DevStudio
+       # link: "#"
+        #tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      #- title: Tempo
+       # link: "#"
+        #tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      #- title: Atom
+       # link: "#"
+        #tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      #- title: Delta
+       # link: "#"
+        #tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      Keeping it hush-hush! (TSflow/ML)
 
     papers:
       - title: In Progress...
-        authors: David L. DIlanchian
+        authors: David L. Dilanchian
         conference: MTL, 2019
 
 skills:
