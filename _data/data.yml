@@ -95,6 +95,16 @@ experiences:
           - Plan, develop and manage web and mobile campaign and channel tracking
           - Collaborate with sales and marketing teams
 
+    - role: Independent Business Owner
+      time: 2015 - Present
+      company: Dilan Safety Shoes, Montreal
+      details: |
+        
+
+          - Promotion via social media to maximize brand identity and generate warm leads
+          - Establish or identify prices of goods and services and tabulate the bills
+          - Maintaining company website with up-to-date with product specifications and availability
+
     - role: Manager & Owner
       time: 2013 - 2015
       company: Cafe Babylonia, Laval
@@ -161,8 +171,8 @@ skills:
       - name: Tensorflow & DL/ML
         level: 85%
 
-      - name: PHP & R
-        level: 70%
+      - name: Entrepeneurship & Problem Solving
+        level: 85%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="https://davidldilanchian.info" target="_blank" rel="nofollow">David Dilanchian</a>
